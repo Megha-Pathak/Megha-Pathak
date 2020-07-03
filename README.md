@@ -5,7 +5,7 @@ Glad to see you here! This is my Github Profile and I breathe ideas and code her
 This is Megha Pathak, a Product-minded, curiosity-driven [Developer](https://meghapathak.netlify.com/) passionate about envisioning and developing great products.
 I often [write](https://medium.com/@meghapathak2013) about Product Management, Community building and Web Developemt.
 ### 📌 First Stop - Open Source
-I started my journey with Open Source development 4 Months aback and it instantly made me fall in love with it. I am precher of the notion of learning by doing and Open Source definitely amplified it for me. 
+I started my journey with Open Source development 4 Months aback and it instantly made me fall in love with it. I am a precher of the notion of learning by doing and Open Source definitely amplified it for me. 
 🔭 Building [Season of Design](https://github.com/codeuino/Design-Initiative-Dashboard-frontend) at [CodeUino](https://github.com/codeuino) these days. 
 If you love any Open Source Project or Community. Do let me know, I would love to know about and Contribute to it.
 ### 📌 Second Stop - Projects 
