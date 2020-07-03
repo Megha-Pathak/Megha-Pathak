@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 Glad to see you here! This is my Github Profile and I breathe ideas and code here. So, tighten your belt and let me fly you through this profile. ✈️
-## But, at first, know your Captain 😊 
+### But, at first, know your Captain 😊 
 This is Megha Pathak, a Product-minded, curiosity-driven [Developer](https://meghapathak.netlify.com/) passionate about envisioning and developing great products.
 I often [write](https://medium.com/@meghapathak2013) about Product Management, Community building and Web Developemt.
-## 📌 First Stop - Projects 
+### 📌 First Stop - Projects 
 If you landed on my GitHub profile by seeing a project of mine. Then you can also check out - 
 - [Blaze](https://github.com/Megha-Pathak/Blaze) - [An an Exercise tracking App](https://blaze-pi.vercel.app/) that track and log the progression of each of your workouts but also help you understand which muscle(s) is being targeted when doing an exercise routine. 
 - [Hacket](https://github.com/Megha-Pathak/Hacket) - [A Privacy Card Game](https://hacket.netlify.com/) to educate internet newbies about CyberSecurity in an interactive way.
