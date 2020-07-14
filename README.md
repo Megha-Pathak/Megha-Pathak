@@ -20,7 +20,7 @@ If you liked all of these you can find more at the [repository](https://github.c
 - 🌱 I’m currently exploring Gatsby, SvelteJs and NodeJs. 
 - 💬 I love discussing about Open Source, Front-end development, Product Management Communities, and Writing. If you want to discuss any of these topics you can even shoot me an email at midnight (and I will probably respond to it instantly). 
 - 📫 How to reach me: Find me at - [E-Mail](mailto:meghapathak2013@gmail.com), [LinkedIn](https://www.linkedin.com/in/megha--pathak/), [Twitter](https://twitter.com/Megha_Pathak_)
-- I recently participated in TeamTanayJobChallenge. What's that? Check [here](https://2020.teamtanay.jobchallenge.dev/ttjc@Megha-Pathak/)
+- I recently participated in TeamTanayJobChallenge. What's that? Check [here](https://2020.teamtanay.jobchallenge.dev/ttjc@finalist@Megha-Pathak/)
 ### 📌 Fourth destination - Communities 
 I have build my career through communities and now I help others to do so. Currently Building
 - [LinkedIn Local Jaipur](https://www.linkedin.com/company/30181948/)
