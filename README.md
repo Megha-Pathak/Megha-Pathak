@@ -1,18 +1,13 @@
-### Hi there 👋
+### ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Megha Pathak!
 
-Glad to see you here! This is my Github Profile and I breathe ideas and code here. 
+%[https://media.giphy.com/media/brsEO1JayBVja/giphy.gif]
 
-This is Megha Pathak, a Product-minded, curiosity-driven [Developer](https://meghapathak.tech/) passionate about envisioning and developing great products.
-I often [write](https://medium.com/@meghapathak2013) about Product Management, Community building and Web Developemt.
+I build things for the web.
+I'm a product minded, full-stack developer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, I'm an engineer at [Hashnode](https://hashnode.com) building the product that changes the way developers blog and help them share knowledge easily.
 
-- 🔭 Building [Season of Design](https://github.com/codeuino/Design-Initiative-Dashboard-frontend) at [CodeUino](https://github.com/codeuino) these days. If you love any Open Source Project or Community. Do let me know, I would love to know about and Contribute to it.
-- 🤝 I’m looking for opportunities in the domain of Web Developement and Product Management. 
-- 👯 A few things that I love working on: React, JavaScript, Firebase, HTML5 & CSS3, User Experience, Community Building, Product Management & Strategy
-- 🌱 I’m currently exploring Gatsby, SvelteJs and NodeJs. 
+I often [write](https://blog.meghapathak.tech) about Product Management, Community building and Web Developemt.
+
 - 💬 I love discussing about Open Source, Front-end development, Product Management Communities, and Writing. If you want to discuss any of these topics you can even shoot me an email at midnight (and I will probably respond to it instantly). 
-- 📫 How to reach me: Find me at - [E-Mail](mailto:meghapathak2013@gmail.com), [LinkedIn](https://www.linkedin.com/in/megha--pathak/), [Twitter](https://twitter.com/Megha_Pathak_)
+- 📫 How to reach me: Find me at - [E-Mail](mailto:meghapathak2013@gmail.com) or [Twitter](https://twitter.com/Megha_Pathak_)
 
 ![GithubStats](https://github-readme-stats.codestackr.vercel.app/api?username=Megha-Pathak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-Shoot me an email and let's take our conversation further (Maybe we find some common destinations between us). 
-
