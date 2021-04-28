@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Megha Pathak!
 
-%[https://media.giphy.com/media/brsEO1JayBVja/giphy.gif]
+![Hello-gif](https://media.giphy.com/media/brsEO1JayBVja/giphy.gif)
 
 I build things for the web.
 I'm a product minded, full-stack developer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, I'm an engineer at [Hashnode](https://hashnode.com) building the product that changes the way developers blog and help them share knowledge easily.
