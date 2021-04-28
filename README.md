@@ -1,4 +1,4 @@
-### ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Megha Pathak!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Megha Pathak!
 
 %[https://media.giphy.com/media/brsEO1JayBVja/giphy.gif]
 
