@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Megha_Pathak_)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://meghapathak.com/)
 
-I build things for the web. I'm a product minded, frontend developer who specializes in building (and occasionally designing) exceptional digital experiences. Previously worked at [Hashnode](https://hashnode.com). 
+I build things for the web. I'm a product minded, frontend developer at [Groww](https://groww.in/) who specializes in building (and occasionally designing) exceptional digital experiences. Previously worked at [Hashnode](https://hashnode.com). 
 
 
 - 💬 I love discussing about Open Source, Front-end development, Motion Design, Design Systems, Product Management Communities, and Writing. If you want to discuss any of these topics you can even shoot me an email at midnight (and I will probably respond to it instantly). 
